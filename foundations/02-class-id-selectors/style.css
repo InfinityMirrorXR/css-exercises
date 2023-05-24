@@ -1,0 +1,19 @@
+/* styles.css */
+
+.odds{
+    background-color: #f5428d ;
+    font-family: "Veranda", "DejaVu Sans", "sans-serif" ;
+}
+#second {
+    color: #4263f5 ;
+    font-size: 36px;
+}
+.bigger {
+    font-size: 24px;
+}
+#fourth {
+    background-color: #42f57e ;
+    font-weight: bold
+}
+
+
